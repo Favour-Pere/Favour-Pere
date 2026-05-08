@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Robert Wilson Peremobowei F 👋</h1>
-<h3 align="center">Data Analyst | Flutter Mobile Developer</h3>
+<h1 align="center">Hi, I'm Robert-Wilson Peremobowei Favour 👋</h1>
+<h3 align="center">Data Analyst</h3>
 
 ![Profile Banner](https://images.unsplash.com/photo-1537498425277-c283d32ef9db?auto=format&fit=crop&w=1600&h=400&q=80)
 ![Dynamic Banner](https://img.shields.io/badge/Hello%20World-Welcome%20to%20my%20GitHub-4CAF50?style=for-the-badge)
@@ -8,10 +8,9 @@
 
 ## 🚀 About Me
 
-I am a data-driven builder passionate about turning raw data into insights and building intuitive mobile experiences with Flutter.
+I am a data-driven builder passionate about turning raw data into insights and building intuitive reports.
 
 - 📊 Focused on **data analysis, automation, and visualization**
-- 📱 Building **data-centric mobile applications** with Flutter
 - 🧠 Strong believer in **Consistency over Intensity** (2026 mantra)
 - ✍️ Learning in public through writing and open-source work
 - 🎯 Currently improving **Python workflows, Power BI dashboards, and Flutter apps**
@@ -25,10 +24,6 @@ I am a data-driven builder passionate about turning raw data into insights and b
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ⚙️ Workflow & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -40,9 +35,6 @@ I am a data-driven builder passionate about turning raw data into insights and b
 
 - 🧪 **Data Mastery**  
   Automating analysis with Python and building advanced Excel & Power BI dashboards.
-
-- 📱 **Mobile Innovation**  
-  Flutter applications that surface real-time analytics and insights to users.
 
 - ✍️ **Writing & Documentation**  
   Sharing my learning journey on Medium and Substack to help beginners break into tech.
